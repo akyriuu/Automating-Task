@@ -1,3 +1,4 @@
+
 ### ENGLISH - DESCRIPTION.
 
 
@@ -6,6 +7,8 @@ This Google Apps Script is used to control equipment presence in two physical bo
 You'll need to first add it inside a script, using the EXTENSION optiion inside the Google Spreadsheets
 
 It adds a custom menu called `Controle de Caixa` when the spreadsheet is opened.
+
+<img width="800" height="362" alt="ezgif-4a40878bc32bcd3f" src="https://github.com/user-attachments/assets/59bddbfc-a57f-4106-ae5b-5088456614ab" />
 
 Menu options:
 - `Registrar equipamentos presentes`: opens a dialog where you paste the MAC addresses and/or Serial Numbers currently inside each box.
