@@ -4,7 +4,7 @@
 
 This Google Apps Script is used to control equipment presence in two physical boxes using a Google Spreadsheet.
 
-You'll need to first add it inside a script, using the EXTENSION optiion inside the Google Spreadsheets
+You'll need to first add it inside a script, using the EXTENSION option inside the Google Spreadsheets
 
 It adds a custom menu called `Controle de Caixa` when the spreadsheet is opened.
 
